@@ -1,5 +1,9 @@
 # 620-mod6-web-scraping
 
+### Student Name: Hayley Massey
+
+### https://github.com/HMas522/json-sentiment
+
 See [BeautifulSoup Quickstart Guide](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#quick-start)
 
 Choose a BeautifulSoup parser:
